@@ -15,9 +15,13 @@ h3, header{
 	color:white;
 	background-color: #FFA500;
 	text-align:center;
-	padding:15px;
+	padding:0px;
 	margin:0;
 	display:block;
+}
+main, .navbar .container-fluid{
+	max-width: 1200px;
+	margin:0 auto;
 }
 h1, footer{
 	color:white;
